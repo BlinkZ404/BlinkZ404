@@ -37,7 +37,7 @@ I am a <b>Computer Science & Engineering</b> student at the <b>University of Asi
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
-      <br><sub><b>JavaScript (ES6+)</b></sub>
+      <br><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" />
