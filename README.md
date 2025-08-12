@@ -1,112 +1,228 @@
-# Hi, I'm Arifur Rahman! 💻🚀
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/University-University%20of%20Asia%20Pacific-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Field-Computer%20Science%20%26%20Engineering-cyan?style=for-the-badge">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arifur%20Rahman&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Architecting%20Tomorrow's%20Digital%20Universe&descAlignY=51&descAlign=50"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=🖥️+Full+Stack+Developer;⚡+Code+%7C+Create+%7C+Innovate+%7C+Inspire;💡+Transforming+Ideas+into+Digital+Reality" />
+
+
+<br><br>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=BlinkZ404&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/> 
+<img src="https://img.shields.io/badge/University-University%20of%20Asia%20Pacific-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Field-Computer%20Science%20%26%20Engineering-cyan?style=for-the-badge">
 </p>
 
----
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%23F7DF1E&size=28&center=true&vCenter=true&width=900&lines=👾+Exploring+the+Uncharted+Realms+of+Tech+;🌌+Driven+by+Curiosity+and+Cosmic+Wonders+;💻+Developing+Futuristic+Solutions+in+AI+%26+Web+;🛸+Seeking+to+Transform+Ideas+into+Reality+Through+Code" />
-</p>
-
----
-
-## 🌠 About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 <p align="justify">
-I am a <b>Computer Science & Engineering</b> student at the <b>University of Asia Pacific</b>, with a passion for exploring new technology realms. My main interests are in <b>Web Development</b> and <b>Software Engineering</b>, with a strong drive to build solutions at the intersection of <b>AI</b> and <b>DevOps</b>. Every project I take on is an opportunity to push boundaries and create innovative solutions.
+I am a <b>Computer Science & Engineering</b> student at the <b>University of Asia Pacific</b>, passionate about turning ideas into impactful digital solutions. My focus areas include <b>Web Development</b> and <b>Software Engineering</b>, with a growing expertise in building products that blend <b>AI</b> and <b>DevOps</b>. I approach every project as a chance to innovate, refine my craft, and deliver meaningful results.
 </p>
+<br>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
-## ⚙️ Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 OSCP - One Stop Compare Platform</h3>
-      <p align="center">
-        <a href="https://github.com/BlinkZ404/Project-OSCPFV">
-          <img src="https://img.shields.io/badge/View%20Project-%2336BCF7?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="justify">
-        A user-friendly platform that aggregates and compares prices from various online shopping sites, enabling users to find the best deals. Built with an emphasis on efficiency and user experience.
-      </p>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💊 HealthSync - Unified Health Platform</h3>
-      <p align="center">
-        <a href="https://github.com/BlinkZ404/HealthSync">
-          <img src="https://img.shields.io/badge/View%20Project-%2336BCF7?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="justify">
-        An all-in-one platform for booking doctor appointments, accessing medication information, and finding blood donors. This project is designed to simplify health management and improve accessibility in healthcare.
-      </p>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+      <br><sub><b>JavaScript (ES6+)</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
+      <br><sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
+      <br><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vue" width="50" alt="Vue.js" />
+      <br><sub><b>Vue.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind" />
+      <br><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" />
+      <br><sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=materialui" width="50" alt="Material UI" />
+      <br><sub><b>Material UI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/chakraui.svg" width="50" alt="Chakra UI" />
+      <br><sub><b>Chakra UI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50" alt="Shadcn/UI" />
+      <br><sub><b>Shadcn/UI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" />
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express" />
+      <br><sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django" width="50" alt="Django" />
+      <br><sub><b>Django</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=flask" width="50" alt="Flask" />
+      <br><sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="FastAPI" />
+      <br><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="50" alt="PostgreSQL" />
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="50" alt="SQLite" />
+      <br><sub><b>SQLite</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" />
+      <br><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=supabase" width="50" alt="Supabase" />
+      <br><sub><b>Supabase</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase" />
+      <br><sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy" />
+      <br><sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" />
+      <br><sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="50" alt="TensorFlow" />
+      <br><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="50" alt="PyTorch" />
+      <br><sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn" />
+      <br><sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
+      <br><sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+      <br><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" />
+      <br><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=webstorm" width="50" alt="WebStorm" />
+      <br><sub><b>WebStorm</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="50" alt="PyCharm" />
+      <br><sub><b>PyCharm</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" />
+      <br><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" />
+      <br><sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify" />
+      <br><sub><b>Netlify</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS" />
+      <br><sub><b>AWS</b></sub>
     </td>
   </tr>
 </table>
+</div>
+<br>
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Connect with Me
 
-## 🌱 Currently Exploring
+<div align="center">
 
-- **Machine Learning**: Pioneering predictive models to solve complex real-world challenges.
-- **Advanced Django**: Constructing scalable, secure applications for the future.
-- **DevOps & Cloud**: Streamlining deployment through Docker, CI/CD, and cloud automation.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifur-rahman-758234211/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlinkZ404)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arifr404)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blinkz_404/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801996398738)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arif.pcmr@gmail.com)
 
----
-
-## 🎲 Galactic Fun Facts
-- **Cosmic Chess** ♟️: Chess exercises my mind to think strategically, just like navigating through a complex galaxy.
-- **Stellar PC Building** 🖥️: I love crafting high-performance PCs, just like an engineer builds a spaceship for intergalactic travel.
-
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arifur-rahman-758234211/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arifur%20Rahman-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:arif.pcmr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me%20📧-green?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
+</div>
+<br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlinkZ404&show_icons=true&theme=radical&bg_color=0D1117&border_color=FFFFFF" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlinkZ404&theme=radical&background=0D1117&border=FFFFFF" width="400">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlinkZ404&theme=react-dark&bg_color=0D1117&border_color=FFFFFF&line=F75C7E&point=36BCF7&area=true&hide_border=true" width="100%" />
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlinkZ404&theme=radical&bg_color=0D1117&border_color=FFFFFF" width="100%">
 </p>
@@ -117,10 +233,4 @@ I am a <b>Computer Science & Engineering</b> student at the <b>University of Asi
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BlinkZ404&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
-</p>
-
----
-
-<p align="center">
-  <i>🤖 "I think it is possible for ordinary people to choose to be extraordinary." - Elon Musk 🤖</i>
 </p>
